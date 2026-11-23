@@ -8,6 +8,7 @@ b =int(input("b arqon uzunligi:"))
 soni = a//b
 qoldiq = a%b
 print(soni,"ta",qoldiq,"ta ortib qoladi")
+print("Salom meni ismim Azizbek")
 
 # 1-dars vazifasi
 
